@@ -16,7 +16,7 @@ body {
     width: 100%;
     height: auto;
     min-height: 700px;
-    max-width: 500px;
+    max-width: 400px;
     min-width: 400px;
     background: #f1f5f8;
     /* background-image: radial-gradient(#bfc0c1 7.2%, transparent 0); */
@@ -56,6 +56,7 @@ body {
     color: hsla(260, 2%, 25%, 0.7);
     width: 70%;
     margin-bottom: 20px;
+    font-weight: 300;
   }
   
   button {
@@ -79,5 +80,6 @@ body {
     text-align: left;
     position: relative;
     padding: 0.5rem;
+    font-weight:400;
   }
   
